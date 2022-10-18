@@ -9,4 +9,7 @@ This repository contains attempts to adapt the [PyTorch autotagger model](https:
 ## Requirements
 - Node 16
 - Python 3.9
+- fastbook 0.0.26
+- scipy 1.8.1
+
 
