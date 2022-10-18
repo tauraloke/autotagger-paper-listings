@@ -1,4 +1,5 @@
 # -*- mode: python ; coding: utf-8 -*-
+# based on https://github.com/danbooru/autotagger/blob/master/autotagger/autotagger.py
 
 from fastbook import *
 from pandas import DataFrame, read_csv
