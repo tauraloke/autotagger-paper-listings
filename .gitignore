@@ -1,0 +1,3 @@
+python-autotagger/models/*
+tensorflow-js/node_modules
+tensorflow-js/model/danbooru*

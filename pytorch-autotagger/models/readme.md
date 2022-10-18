@@ -1,0 +1,1 @@
+Download the file `model.pth` from https://github.com/danbooru/autotagger/releases/download/2022.06.20-233624-utc/model.pth and put in the folder to run a pytorch part.

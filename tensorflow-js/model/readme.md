@@ -1,0 +1,1 @@
+Extract folder from https://github.com/tauraloke/tegownitsa/releases/download/v0.12.0/danbooru.zip and put in the folder to run tensorflow parts.
