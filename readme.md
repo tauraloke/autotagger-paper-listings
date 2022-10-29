@@ -1,5 +1,5 @@
 ## Summary
-This repository contains attempts to adapt the [PyTorch autotagger model](https://github.com/danbooru/autotagger) in TensorflowJS + Node environment.
+This repository contains attempts to adapt the [PyTorch autotagger model](https://github.com/danbooru/autotagger) in TensorflowJS + Node environment. You can see more details in [the paper on Habr.com](https://habr.com/ru/post/694164/).
 
 ## Converting a weight file from PyTorch to Tensorflow
 - Exporting *.pth file to ONNX (`torch.onnx.export(learn.eval().to('cuda'), torch.randn(1, 3, 224, 224).to('cuda'), "danbooru.onnx")`)
